@@ -1,8 +1,8 @@
 #### 1、浏览器安装 “油猴插件”
 [http://tampermonkey.net/](http://tampermonkey.net/)
 
-#### 2、打开自己的微博主页
-[微博主页](https://weibo.com/2722198361/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1)
+#### 2、打开自己的微博主页-我的主页
+[微博主页](https://weibo.com/)
 
 #### 3、下载并添加“油猴”脚本
 
